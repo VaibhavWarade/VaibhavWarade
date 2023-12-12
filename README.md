@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaibhavWarade
-- 👀 I’m interested in Technology (electronics specifically)
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Technology 
+- 🌱 Belive on continuous learning continuous development.
 
 
 <!---
