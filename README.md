@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VaibhavWarade
-- 👀 I’m interested in Technology 
+- 👀 I’m a lifetime data enthusiast 
 - 🌱 Belive on continuous learning continuous development.
 
 
